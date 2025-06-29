@@ -1,0 +1,17 @@
+# Dependências para Análise de Campanhas Facebook Ads
+# ===============================================
+
+# Manipulação e análise de dados
+pandas>=1.5.0
+
+# Visualização de dados
+matplotlib>=3.6.0
+
+# Machine Learning e pré-processamento
+scikit-learn>=1.1.0
+
+# Análise estatística (opcional)
+numpy>=1.21.0
+
+# Para melhorar as visualizações (opcional)
+seaborn>=0.11.0
